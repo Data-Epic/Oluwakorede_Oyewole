@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-epic-project",
+  "private_key_id": "afa64d8df8db0906ba2b0bd5c04cf79a82be0479",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMfMIE6FBSYfG2\n0Vn7ayILUJhCFpuihWUrNMfwu3+uF/Ra1wRfxwzmKTsA1cigcpO/JKGZARrMgCDa\nft4WEW+h5YI9tU/I40mSHIdc/EpkiSzOqAJyGLhmcAw6bRx1/DVLahXJq75R4331\neK8ol0dhyyMtHpe5NX2jva21uqsLNAh0gK/rN0wsY5/fGQToRdg9BRNWMsXDUEn2\n4pQ3Ucy9h39QTSLiNDSJzPTwzocGj+Xjuv5ZQLXsZ/8ZLGtnlxtGKTjgv6DZqnLt\nvGHjRi5yaEuznCKNEPeHg11kaEHkXSBNOiSH+1531XqE8afIEBgYEaQy/Fik/y7w\nAD4i8xlFAgMBAAECggEAF/DvYlW0ucB/5VCjgV0ssjhwayRsel2115YpZpT9QOvL\nDyundnM+nl/raZCeGbLwe2uVg+1uLs09i3dZFypZcJIHaqQkwDdkMLgoXQmoyBaL\naXKgPq2IQW4S8HA/6cxqjPbRsDfsY3gIEkpb75uuntOCvdCcIPITUK1vfhxp1DjA\ntbzcXD6vM6xBF5JFRPXzBBPc0R2Z5G4Q87Zlg81YkhMaWAaMUH+470NJh1uFt8yM\npGhvPh8llj42kyClgUwzvlfiQpExr3leriVnqjNlhDqIyJmEXNtmFW2LJ40EGb8d\nTJVPHQ1vxZQ/4J/CQntCBlg6WvBDCngpu1sWV/97TQKBgQDv8yG68HHUbkZvlOBm\n/uULjeZ55FBenvo0a6z7591ynYCepCuo0lNgmuOvBx0KVnDBhqvCXAXVc3I7fxBL\nwS5h5dPDbiiFRnS7KRUubv1g0xtgFp861K1Chl5tJk7RqX3x/wrPdwcGWaydzIpT\nz0VEmCZoVvwnXFBe8LsSk/YjNwKBgQDaKl9jLS63J7p5IPiyfUW1ftAZGGONviT+\nS/Coax4gsSuHyX6VazGNvIZKMf2naoygi3dGLg+/S8JBrBXlmVcbUGX8sG52VeKr\nm0d8mch+5XZ1M2o9SSmn9wwpwi5E3XI2n4FiRCZDIal/X29FwDk1vF2U1b27jV87\nthwK7QvdYwKBgDXU9xlIflEpWFYKMXoJ73rzH+TyyvEfe4StL4boUu821LdCn6Tl\nYt1GgpQu5V3/XJaeTwRwvsJPfy5H6HEGaxB9jk/G9AJKdz/SDLV5IxFI61hYWurI\n8gH9wUt9j6tL+jyDenpm+sV68tYIIHSDCMhF1kAMW8+8zy8tlNqrJUprAoGBAMlw\n8Iyhro3deBfaMuiUNSaFhl51n47EcGIB+p938OSc0qXZjjEnPiUyWwjtKdpIzrp6\nrFI3u8CVkjOTUtCiisSkstbkjcpkORzdDt/lGzTYaU2EgOc/w9/cg/WW36QkmQ4I\nr63tYSsBTQFYPGU6PVj5qasAxOUFf1aiKziHcjojAoGAET+f+tMII0WsobbYyipF\nkOYPZ5uSo/oM12pA9z8HO2VUBS5V4CnZVTuKpJOzgbZqIvtrrV++zWjCui+CZ4g2\nYGVO/VeXDlW0zv2/NY8a/n4ijKSwYnpmIzQ7BmvtV0TJ/hR1FzZ9vaU5TS2ybhgi\nKsVCb18ckosh0b6oAVV5aJE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "oluwakorede@data-epic-project.iam.gserviceaccount.com",
+  "client_id": "111136955703191864408",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oluwakorede%40data-epic-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
